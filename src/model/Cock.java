@@ -5,7 +5,7 @@ public class Cock extends Fowl {
     setPrice();
   }
 
-    @Override
+  @Override
   public void setPrice() {
     this.price = 5;
   }
